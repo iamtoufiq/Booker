@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App h1 {
+  margin-top: 1em;
+  /* font-family: sans-serif;
+  text-align: center; */
+}
+body {
+  background-color: #efefef;
+}
+.button {
+  border-radius: 10px;
+  padding: 15px;
+  margin-left: 2vw;
+  border: none;
+  cursor: pointer;
+  background-color: #a8dadc;
+  font-size: 0.9rem;
+}
+
+.books {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 10px;
+  margin-bottom: 1em;
+  padding: 1em;
+  border-radius: 5px;
+  border: 1px solid #457b9d7e;
+}
+h1 {
+  color: #1d3557;
+}
+h4 {
+  color: #1d3557;
+}
+h3 {
+  color: #457b9d;
+}
+p {
+  color: #e63946;
+}
+
+hr {
+  color: #1d3557;
+}
